@@ -1,0 +1,834 @@
+{
+  "movie": {
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/zOpe0eHsq0A2NvNyBbtT6sj53qV.jpg",
+            "genre_ids": [
+                28,
+                878,
+                35,
+                10751
+            ],
+            "id": 939243,
+            "original_language": "en",
+            "original_title": "Sonic the Hedgehog 3",
+            "overview": "Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched in every way, Team Sonic must seek out an unlikely alliance in hopes of stopping Shadow and protecting the planet.",
+            "popularity": 4924.543,
+            "poster_path": "/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg",
+            "release_date": "2024-12-19",
+            "title": "Sonic the Hedgehog 3",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 1400
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zo8CIjJ2nfNOevqNajwMRO6Hwka.jpg",
+            "genre_ids": [
+                16,
+                12,
+                10751,
+                35,
+                9648
+            ],
+            "id": 1241982,
+            "original_language": "en",
+            "original_title": "Moana 2",
+            "overview": "After receiving an unexpected call from her wayfinding ancestors, Moana journeys alongside Maui and a new crew to the far seas of Oceania and into dangerous, long-lost waters for an adventure unlike anything she's ever faced.",
+            "popularity": 2932.481,
+            "poster_path": "/aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg",
+            "release_date": "2024-11-21",
+            "title": "Moana 2",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 1195
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/v9Du2HC3hlknAvGlWhquRbeifwW.jpg",
+            "genre_ids": [
+                28,
+                878,
+                12,
+                14,
+                53
+            ],
+            "id": 539972,
+            "original_language": "en",
+            "original_title": "Kraven the Hunter",
+            "overview": "Kraven Kravinoff's complex relationship with his ruthless gangster father, Nikolai, starts him down a path of vengeance with brutal consequences, motivating him to become not only the greatest hunter in the world, but also one of its most feared.",
+            "popularity": 2922.73,
+            "poster_path": "/nrlfJoxP1EkBVE9pU62L287Jl4D.jpg",
+            "release_date": "2024-12-11",
+            "title": "Kraven the Hunter",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 977
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xZm5YUNY3PlYD1Q4k7X8zd2V4AK.jpg",
+            "genre_ids": [
+                28,
+                35
+            ],
+            "id": 993710,
+            "original_language": "en",
+            "original_title": "Back in Action",
+            "overview": "Fifteen years after vanishing from the CIA to start a family, elite spies Matt and Emily jump back into the world of espionage when their cover is blown.",
+            "popularity": 2147.316,
+            "poster_path": "/3L3l6LsiLGHkTG4RFB2aBA6BttB.jpg",
+            "release_date": "2025-01-15",
+            "title": "Back in Action",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 712
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qSOMdbZ6AOdHR999HWwVAh6ALFI.jpg",
+            "genre_ids": [
+                28,
+                80,
+                53
+            ],
+            "id": 1249289,
+            "original_language": "en",
+            "original_title": "Alarum",
+            "overview": "Two married spies caught in the crosshairs of an international intelligence network will stop at nothing to obtain a critical asset. Joe and Lara are agents living off the grid whose quiet retreat at a winter resort is blown to shreds when members of the old guard suspect the two may have joined an elite team of rogue spies, known as Alarum.",
+            "popularity": 2009.556,
+            "poster_path": "/ckyYZf5cGTSOwF8LWIRqeThyh18.jpg",
+            "release_date": "2025-01-16",
+            "title": "Alarum",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 92
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c0g0OprcXkRu61HlKM1fQv8qj8x.jpg",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "id": 1410082,
+            "original_language": "en",
+            "original_title": "Sniper: The Last Stand",
+            "overview": "To stop an arms dealer from unleashing a deadly superweapon, Ace sniper Brandon Beckett and Agent Zero are deployed to Costa Verde to lead a group of elite soldiers against an unrelenting militia. Taking an untested sniper under his wing, Beckett faces his newest challenge: giving orders instead of receiving them. With both time and ammo running low in a race to save humanity, the team must overcome all odds just to survive.",
+            "popularity": 1889.67,
+            "poster_path": "/TVvIyCsFCmLk9MRLbAZi4X8f32.jpg",
+            "release_date": "2025-01-21",
+            "title": "Sniper: The Last Stand",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 36
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hctfNoMpQGfn3VXdBYb9p0P5bT5.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 1097549,
+            "original_language": "en",
+            "original_title": "Babygirl",
+            "overview": "A high-powered CEO puts her career and family on the line when she begins a torrid affair with her much younger intern.",
+            "popularity": 1567.923,
+            "poster_path": "/A8HbTd0FemZyFCh5qvJFpHGiwF8.jpg",
+            "release_date": "2024-12-25",
+            "title": "Babygirl",
+            "video": false,
+            "vote_average": 5.739,
+            "vote_count": 291
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/h7r6LZ32dgLwtwSW3CxoWIYD9pr.jpg",
+            "genre_ids": [
+                27,
+                14
+            ],
+            "id": 426063,
+            "original_language": "en",
+            "original_title": "Nosferatu",
+            "overview": "A gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
+            "popularity": 1643.854,
+            "poster_path": "/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg",
+            "release_date": "2024-12-25",
+            "title": "Nosferatu",
+            "video": false,
+            "vote_average": 6.619,
+            "vote_count": 1801
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ueDw7djPgKPZfph0vC43aD2EMyF.jpg",
+            "genre_ids": [
+                12,
+                28
+            ],
+            "id": 85,
+            "original_language": "en",
+            "original_title": "Raiders of the Lost Ark",
+            "overview": "When Dr. Indiana Jones – the tweed-suited professor who just happens to be a celebrated archaeologist – is hired by the government to locate the legendary Ark of the Covenant, he finds himself up against the entire Nazi regime.",
+            "popularity": 1520.298,
+            "poster_path": "/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
+            "release_date": "1981-06-12",
+            "title": "Raiders of the Lost Ark",
+            "video": false,
+            "vote_average": 7.9,
+            "vote_count": 12567
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lWMa1FdgC7zP9ATVg6dgpZ3rxhe.jpg",
+            "genre_ids": [
+                12,
+                10751,
+                16
+            ],
+            "id": 762509,
+            "original_language": "en",
+            "original_title": "Mufasa: The Lion King",
+            "overview": "Mufasa, a cub lost and alone, meets a sympathetic lion named Taka, the heir to a royal bloodline. The chance meeting sets in motion an expansive journey of a group of misfits searching for their destiny.",
+            "popularity": 1453.836,
+            "poster_path": "/jbOSUAWMGzGL1L4EaUF8K6zYFo7.jpg",
+            "release_date": "2024-12-18",
+            "title": "Mufasa: The Lion King",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 929
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/euYIwmwkmz95mnXvufEmbL6ovhZ.jpg",
+            "genre_ids": [
+                28,
+                12,
+                18
+            ],
+            "id": 558449,
+            "original_language": "en",
+            "original_title": "Gladiator II",
+            "overview": "Years after witnessing the death of the revered hero Maximus at the hands of his uncle, Lucius is forced to enter the Colosseum after his home is conquered by the tyrannical Emperors who now lead Rome with an iron fist. With rage in his heart and the future of the Empire at stake, Lucius must look to his past to find strength and honor to return the glory of Rome to its people.",
+            "popularity": 1292.536,
+            "poster_path": "/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg",
+            "release_date": "2024-11-05",
+            "title": "Gladiator II",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 2620
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8dqZsevb5E8x29OFyr1neSp7bc9.jpg",
+            "genre_ids": [
+                27,
+                878
+            ],
+            "id": 933260,
+            "original_language": "en",
+            "original_title": "The Substance",
+            "overview": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
+            "popularity": 1179.729,
+            "poster_path": "/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
+            "release_date": "2024-09-07",
+            "title": "The Substance",
+            "video": false,
+            "vote_average": 7.135,
+            "vote_count": 3590
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hAQnXxOwCjgYcKRgTdYPRC8neqL.jpg",
+            "genre_ids": [
+                28,
+                18
+            ],
+            "id": 811941,
+            "original_language": "te",
+            "original_title": "దేవర: Part 1",
+            "overview": "Devara, a fearless man from a coastal region, embarks on a perilous journey into the treacherous world of the sea to safeguard the lives of his people. Unbeknownst to him, his brother Bhaira is plotting a conspiracy against him. As events unfold, Devara passes on his legacy to his mild-mannered and timid son, Varada.",
+            "popularity": 1276.343,
+            "poster_path": "/A9ENz6d4lC3UYOX8Z1gJwDEo1sM.jpg",
+            "release_date": "2024-09-26",
+            "title": "Devara: Part 1",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 70
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vZG7PrX9HmdgL5qfZRjhJsFYEIA.jpg",
+            "genre_ids": [
+                28,
+                878,
+                12
+            ],
+            "id": 912649,
+            "original_language": "en",
+            "original_title": "Venom: The Last Dance",
+            "overview": "Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision that will bring the curtains down on Venom and Eddie's last dance.",
+            "popularity": 1251.244,
+            "poster_path": "/aosm8NMQ3UyoBVpSxyimorCQykC.jpg",
+            "release_date": "2024-10-22",
+            "title": "Venom: The Last Dance",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 2636
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mKIxSo3p1QKlsdegcOwapcbiV74.jpg",
+            "genre_ids": [
+                28,
+                80,
+                53
+            ],
+            "id": 604685,
+            "original_language": "en",
+            "original_title": "Den of Thieves 2: Pantera",
+            "overview": "Big Nick is back on the hunt in Europe and closing in on Donnie, who is embroiled in the treacherous and unpredictable world of diamond thieves and the infamous Panther mafia, as they plot a massive heist of the world's largest diamond exchange.",
+            "popularity": 950.888,
+            "poster_path": "/zLHq7fQA3xpck5UIHcRYgip5pQD.jpg",
+            "release_date": "2025-01-08",
+            "title": "Den of Thieves 2: Pantera",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 143
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cA88pwGnHa64BBcU3R1oCcJH9Qc.jpg",
+            "genre_ids": [
+                28,
+                27,
+                53
+            ],
+            "id": 970450,
+            "original_language": "en",
+            "original_title": "Werewolves",
+            "overview": "A year after a supermoon’s light activated a dormant gene, transforming humans into bloodthirsty werewolves and causing nearly a billion deaths, the nightmare resurfaces as the supermoon rises again. Two scientists attempt to stop the mutation but fail and must now struggle to reach one of their family homes.",
+            "popularity": 1078.612,
+            "poster_path": "/cRTctVlwvMdXVsaYbX5qfkittDP.jpg",
+            "release_date": "2024-12-04",
+            "title": "Werewolves",
+            "video": false,
+            "vote_average": 6.195,
+            "vote_count": 256
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3WnoZw50qIfXsFnKr0LddEh5Jnf.jpg",
+            "genre_ids": [
+                10752,
+                36,
+                18
+            ],
+            "id": 1222248,
+            "original_language": "no",
+            "original_title": "Nr. 24",
+            "overview": "On the brink of the Second World War, a young Norwegian man's drive to resist the Nazis sets a new course for his future – and the future of his country.",
+            "popularity": 996.062,
+            "poster_path": "/rzsmKSFEsEWBLbJ968abffnfYZ7.jpg",
+            "release_date": "2024-10-30",
+            "title": "Number 24",
+            "video": false,
+            "vote_average": 7.152,
+            "vote_count": 184
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aLhtnH4pKHnD02ZfBGm2djwlNBH.jpg",
+            "genre_ids": [
+                16,
+                99
+            ],
+            "id": 426889,
+            "original_language": "fr",
+            "original_title": "Le clitoris",
+            "overview": "Women are lucky, they get to have the only organ in the human body dedicated exclusively for pleasure: the clitoris! In this humorous and instructive animated documentary, find out its unrecognized anatomy and its unknown herstory.",
+            "popularity": 1088.657,
+            "poster_path": "/p5i1yyQW6OpLfB59w7ZkX5lvBqD.jpg",
+            "release_date": "2016-06-18",
+            "title": "Le clitoris",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 14
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pqulyfkug9A7TmmRn5zrbRA8TAY.jpg",
+            "genre_ids": [
+                28,
+                35
+            ],
+            "id": 1255788,
+            "original_language": "fr",
+            "original_title": "Le Jardinier",
+            "overview": "Every year the Prime Minister has a list of all kinds of troublemakers eliminated in the name of the famous Reason of State. Serge Shuster, Special Adviser to the President of the Republic, finds himself on this list, better known as the Matignon List.  Condemned to certain death and at the heart of an implacable plot and a state secret that also put his family in danger, Serge, his wife and children have only one hope left - their gardener, Léo, who hates it when « slugs » invade his garden... Especially those that want to kill innocent families.",
+            "popularity": 1034.435,
+            "poster_path": "/5T9WR7vIOnHm6xhVt5zBuPbBgt1.jpg",
+            "release_date": "2025-01-30",
+            "title": "The Gardener",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 33
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3SOunz2Z0qcOVlrkYFj20HquziB.jpg",
+            "genre_ids": [
+                878,
+                12,
+                28,
+                18,
+                10770
+            ],
+            "id": 1114894,
+            "original_language": "en",
+            "original_title": "Star Trek: Section 31",
+            "overview": "Emperor Philippa Georgiou joins a secret division of Starfleet tasked with protecting the United Federation of Planets and faces the sins of her past.",
+            "popularity": 1137.843,
+            "poster_path": "/sqiCinCzUGlzQiFytS30N1nO3Pt.jpg",
+            "release_date": "2025-01-15",
+            "title": "Star Trek: Section 31",
+            "video": false,
+            "vote_average": 4.444,
+            "vote_count": 107
+        }
+    ],
+    "total_pages": 48506,
+    "total_results": 970108
+},
+"tv":{
+  "page": 1,
+  "results": [
+      {
+          "adult": false,
+          "backdrop_path": "/81FKp9UMwZZ7Xk2ksV6z8qjG6pU.jpg",
+          "genre_ids": [
+              10764
+          ],
+          "id": 85231,
+          "origin_country": [
+              "ES"
+          ],
+          "original_language": "es",
+          "original_name": "GH Dúo",
+          "overview": "",
+          "popularity": 3165.802,
+          "poster_path": "/sgPv3qMYHKwxz9KQxjyQokmPUHj.jpg",
+          "first_air_date": "2019-01-08",
+          "name": "GH Dúo",
+          "vote_average": 7.3,
+          "vote_count": 3
+      },
+      {
+          "adult": false,
+          "backdrop_path": "/cWOf1pRRX5gvtSo1calWSB8NQho.jpg",
+          "genre_ids": [
+              10751,
+              35
+          ],
+          "id": 49036,
+          "origin_country": [
+              "CN"
+          ],
+          "original_language": "zh",
+          "original_name": "乡村爱情",
+          "overview": "",
+          "popularity": 2688.508,
+          "poster_path": "/2XlU2bzsESbc6x9lBKe0gyk90oO.jpg",
+          "first_air_date": "2006-09-30",
+          "name": "Love Stories in the Countryside",
+          "vote_average": 6.5,
+          "vote_count": 4
+      },
+      {
+          "adult": false,
+          "backdrop_path": "/CdIb3DdvujTyLcMpp2UwEEmL6L.jpg",
+          "genre_ids": [
+              10763
+          ],
+          "id": 1770,
+          "origin_country": [
+              "US"
+          ],
+          "original_language": "en",
+          "original_name": "ABC World News",
+          "overview": "ABC World News is the flagship daily evening television news program of ABC News, the news division of the American Broadcasting Company television network in the United States. Currently the weekday editions (going by title ABC World News Tonight with David Muir) are anchored by David Muir. ABC World News has been anchored at various times by a number of other people since its debut in 1953. It also has used various titles, including ABC Evening News from 1970 to 1978 and World News Tonight from 1978 to 2006.",
+          "popularity": 3092.627,
+          "poster_path": "/bhdypGMoLPV1NgnRd1M8YA5X9UB.jpg",
+          "first_air_date": "1948-08-11",
+          "name": "ABC World News Tonight With David Muir",
+          "vote_average": 6,
+          "vote_count": 7
+      },
+      {
+          "adult": false,
+          "backdrop_path": "/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
+          "genre_ids": [
+              10759,
+              9648,
+              18
+          ],
+          "id": 93405,
+          "origin_country": [
+              "KR"
+          ],
+          "original_language": "ko",
+          "original_name": "오징어 게임",
+          "overview": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games. Inside, a tempting prize awaits — with deadly high stakes.",
+          "popularity": 2579.981,
+          "poster_path": "/1QdXdRYfktUSONkl1oD5gc6Be0s.jpg",
+          "first_air_date": "2021-09-17",
+          "name": "Squid Game",
+          "vote_average": 7.859,
+          "vote_count": 15314
+      },
+      {
+          "adult": false,
+          "backdrop_path": null,
+          "genre_ids": [
+              10766,
+              18
+          ],
+          "id": 80318,
+          "origin_country": [
+              "IT"
+          ],
+          "original_language": "it",
+          "original_name": "CentoVetrine",
+          "overview": "The series tells the stories of some of the characters who work or are related to an imaginary shopping center Centovetrine, located in the center of Turin. There are many stories of love and passion, but also struggles for power and dynastic quarrels in the telefilm.",
+          "popularity": 2416.184,
+          "poster_path": "/25v6iDGmIpyG3zndfYdt4KfQgQ9.jpg",
+          "first_air_date": "2001-01-08",
+          "name": "CentoVetrine",
+          "vote_average": 6,
+          "vote_count": 1
+      },
+      {
+          "adult": false,
+          "backdrop_path": "/2wNuLc0cEoPz6PZItftrZLHjG2k.jpg",
+          "genre_ids": [
+              18,
+              10751
+          ],
+          "id": 251691,
+          "origin_country": [
+              "SA"
+          ],
+          "original_language": "ar",
+          "original_name": "خريف القلب",
+          "overview": "A devastating car accident unearths a long-buried secret that turns wealthy businessman Rashid and hardworking Nahla's life around; fifteen years ago, their daughters were switched at birth.",
+          "popularity": 2353.7,
+          "poster_path": "/8uDmIxjBx90y5OCwJDBADtQzxb7.jpg",
+          "first_air_date": "2024-10-27",
+          "name": "Autumn of the Heart",
+          "vote_average": 4.25,
+          "vote_count": 18
+      },
+      {
+          "adult": false,
+          "backdrop_path": "/hbcQ5hArQQ9lCMRo3VVdEco7xC3.jpg",
+          "genre_ids": [
+              80
+          ],
+          "id": 3940,
+          "origin_country": [
+              "US"
+          ],
+          "original_language": "en",
+          "original_name": "Judge Judy",
+          "overview": "Judge Judy is an American arbitration-based reality court show presided over by retired Manhattan Family Court Judge Judith Sheindlin. The show features Sheindlin adjudicating real-life small claims disputes within a simulated courtroom set. All parties involved must sign contracts, agreeing to arbitration under Sheindlin. The series is in first-run syndication and distributed by CBS Television Distribution.\n\nJudge Judy, which premiered on September 16, 1996, reportedly revitalized the court show genre. Only two other arbitration-based reality court shows preceded it, The People's Court and Jones and Jury. Sheindlin has been credited with introducing the \"tough\" adjudicating approach into the judicial genre, which has led to several imitators. The two court shows that outnumber Judge Judy's seasons, The People's Court and Divorce Court, have both lasted via multiple lives of production and shifting arbiters, making Sheindlin's span as a television arbiter the longest.",
+          "popularity": 2387.859,
+          "poster_path": "/pRjTr7Om4qcjxVVZZW68zQA6J8x.jpg",
+          "first_air_date": "1996-09-16",
+          "name": "Judge Judy",
+          "vote_average": 5.8,
+          "vote_count": 88
+      },
+      {
+          "adult": false,
+          "backdrop_path": "/u4oCL0YEl2vGH7J42QyqLgzyuKR.jpg",
+          "genre_ids": [
+              10766
+          ],
+          "id": 6489,
+          "origin_country": [
+              "PL"
+          ],
+          "original_language": "pl",
+          "original_name": "Klan",
+          "overview": "Family is the most important thing, and the children of Władysław and Maria Lubicz from Warsaw can always count on each other, no matter what surprises life offers.",
+          "popularity": 2097.869,
+          "poster_path": "/vuSKqHmKLrKG2AYFOyQ4Ci9wTAj.jpg",
+          "first_air_date": "1997-09-22",
+          "name": "Klan",
+          "vote_average": 4.7,
+          "vote_count": 7
+      },
+      {
+          "adult": false,
+          "backdrop_path": "/6Wu83niwiQt6xku7ymmLCuWYOmt.jpg",
+          "genre_ids": [
+              18
+          ],
+          "id": 263050,
+          "origin_country": [
+              "CN"
+          ],
+          "original_language": "zh",
+          "original_name": "夺娶",
+          "overview": "The young and dashing general Xiao Chuyi and his childhood sweetheart, Lu Yunxi, share a deep and loving relationship. However, after Xiao Chuyi's exile and near-death experience, he returns to find that Lu Yunxi has moved on. Amid tangled emotions of love and hatred, Xiao Chuyi and Lu Yunxi navigate a complex and forbidden romance as their feelings become increasingly entangled.",
+          "popularity": 1373.803,
+          "poster_path": "/A5nKJn0yYlGHMgqUNkavBIN79tS.jpg",
+          "first_air_date": "2025-01-15",
+          "name": "Stolen Love",
+          "vote_average": 5,
+          "vote_count": 2
+      },
+      {
+          "adult": false,
+          "backdrop_path": "/j5CR0gFPjwgmAXkV9HGaF4VMjIW.jpg",
+          "genre_ids": [
+              10766,
+              18,
+              35
+          ],
+          "id": 257064,
+          "origin_country": [
+              "BR"
+          ],
+          "original_language": "pt",
+          "original_name": "Volta por Cima",
+          "overview": "",
+          "popularity": 2261.693,
+          "poster_path": "/nyN8R0P1Hqwq7ksJz4O2BIAUd4W.jpg",
+          "first_air_date": "2024-09-30",
+          "name": "Volta por Cima",
+          "vote_average": 6.542,
+          "vote_count": 12
+      },
+      {
+          "adult": false,
+          "backdrop_path": "/tPLUHT2cQYJi66aSZZ1qrcu74Zq.jpg",
+          "genre_ids": [
+              10766,
+              18
+          ],
+          "id": 257048,
+          "origin_country": [
+              "BR"
+          ],
+          "original_language": "pt",
+          "original_name": "Garota do Momento",
+          "overview": "Beatriz Dourado, a young black woman marked by abandonment, searches for answers about her past and discovers that her mother, Clarice, left her to pursue her career in Rio de Janeiro. With devastating revelations and a new love, Beatriz faces adversity and transforms her pain into power, fighting to conquer her place in the world.",
+          "popularity": 2260.156,
+          "poster_path": "/jFSkjQSZ5Td52igalpoTQRuHtk.jpg",
+          "first_air_date": "2024-11-04",
+          "name": "She's the One",
+          "vote_average": 8.1,
+          "vote_count": 9
+      },
+      {
+          "adult": false,
+          "backdrop_path": "/1LdoySO2wr2AtJUvxIoMEkCySZC.jpg",
+          "genre_ids": [
+              35,
+              10759,
+              10762,
+              16,
+              10751
+          ],
+          "id": 34860,
+          "origin_country": [
+              "JP"
+          ],
+          "original_language": "ja",
+          "original_name": "忍たま乱太郎",
+          "overview": "Rantarō, Shinbei and Kirimaru are ninja  apprentices in the Ninja Gakuen, where first grade ones are called  \"Nintamas\". They must learn  everything a ninja must know, but as for our heroes, money, food or  playing are more interesting. The series show the everyday adventures of  our heroes.",
+          "popularity": 1828.618,
+          "poster_path": "/raKlXyICQBeTxYavErIRybR6g8d.jpg",
+          "first_air_date": "1993-04-10",
+          "name": "Ninja Boy Rantaro",
+          "vote_average": 6.2,
+          "vote_count": 14
+      },
+      {
+          "adult": false,
+          "backdrop_path": "/zA1AppSztteljdiZQSTrXi0tC7P.jpg",
+          "genre_ids": [
+              10764
+          ],
+          "id": 243754,
+          "origin_country": [
+              "GB"
+          ],
+          "original_language": "en",
+          "original_name": "Love Island: All Stars",
+          "overview": "Some of your favourite Islanders from across the years heading back to the stunning South African villa to once again 'graft' as their search for love continues.",
+          "popularity": 1961.701,
+          "poster_path": "/hOHKevqnalNfhtVwTL8RqVKzQHC.jpg",
+          "first_air_date": "2024-01-15",
+          "name": "Love Island: All Stars",
+          "vote_average": 4.071,
+          "vote_count": 14
+      },
+      {
+          "adult": false,
+          "backdrop_path": "/qJnjJXBLgG4tummCm792nvNz7u1.jpg",
+          "genre_ids": [
+              10767
+          ],
+          "id": 23915,
+          "origin_country": [
+              "DE"
+          ],
+          "original_language": "de",
+          "original_name": "Markus Lanz",
+          "overview": "TV presenter Markus Lanz invites prominent guests and experts from all areas of public life to his colourful talk show. As a rule, there are four guests, introduced individually to contribute their personal experiences to the topics.",
+          "popularity": 1720.247,
+          "poster_path": "/tr4cLn4ecRASV0SPM9FRv0AJOQF.jpg",
+          "first_air_date": "2008-06-03",
+          "name": "Markus Lanz",
+          "vote_average": 5,
+          "vote_count": 10
+      },
+      {
+          "adult": false,
+          "backdrop_path": null,
+          "genre_ids": [
+              18,
+              10766
+          ],
+          "id": 3091,
+          "origin_country": [
+              "GB"
+          ],
+          "original_language": "en",
+          "original_name": "Family Affairs",
+          "overview": "Focuses on the lives of residents in the fictional London suburb of Charnham.",
+          "popularity": 2059.746,
+          "poster_path": "/oVzzgkPAf9eN4NNGFcZ5amk8NZF.jpg",
+          "first_air_date": "1997-03-30",
+          "name": "Family Affairs",
+          "vote_average": 2.6,
+          "vote_count": 5
+      },
+      {
+          "adult": false,
+          "backdrop_path": "/xeJJZE8yC09lRbiV2f2hqURJmhd.jpg",
+          "genre_ids": [
+              10766,
+              18,
+              9648
+          ],
+          "id": 237478,
+          "origin_country": [
+              "BR"
+          ],
+          "original_language": "pt",
+          "original_name": "Mania de Você",
+          "overview": "The story begins with the ambiguous relationship between friends Viola and Luma, who seem predestined to literally enter each other's lives. Born on the same day, in very different situations, they meet years later, united by coincidences that go beyond their birthday. From humble origins, Viola moves with her boyfriend Mavi to Angra dos Reis, where Luma lives a luxurious life and dates Rudá, who ends up meeting Viola by chance. Thus begins the duo's journey, which goes from a passion for recipes to an obsession with the same man, from the immediate connection to the point of starting to live their friend’s reality, 10 years later. A journey divided between complicity and rivalry, which includes them in a love quadrangle and is impacted by a series of circumstances, twists and surprises, such as the secret surrounding a murder.",
+          "popularity": 1917.481,
+          "poster_path": "/xq1X6H8pupwx0jeZpu4Piq0V5uL.jpg",
+          "first_air_date": "2024-09-09",
+          "name": "Crazy About You",
+          "vote_average": 5.2,
+          "vote_count": 12
+      },
+      {
+          "adult": false,
+          "backdrop_path": "/s2qJb1FLwp1Mse9lY08JqgMp0kw.jpg",
+          "genre_ids": [
+              10764,
+              35
+          ],
+          "id": 5092,
+          "origin_country": [
+              "KR"
+          ],
+          "original_language": "ko",
+          "original_name": "무한도전",
+          "overview": "Infinite Challenge has been reported as the first \"Real-Variety\" show in Korean television history. The program is largely unscripted, and follows a similar format of challenge-based Reality Television programs, familiar to the audiences in the West, but the challenges are often silly, absurd, or impossible to achieve, so the program takes on the aspect of a satirical comedy variety show, rather than a more standard reality or contest program. In order to achieve its comedic purposes its 6 hosts and staff continuously proclaim, the elements of this show are the 3-Ds, Dirty, Dangerous, and Difficult.",
+          "popularity": 1786.207,
+          "poster_path": "/3ZIPTvMnzI5ThmdGeEYQFxJV5Sg.jpg",
+          "first_air_date": "2005-04-23",
+          "name": "Infinite Challenge",
+          "vote_average": 7.6,
+          "vote_count": 19
+      },
+      {
+          "adult": false,
+          "backdrop_path": "/lKA8FJGKkbPN2AhMMC0YUJSthvD.jpg",
+          "genre_ids": [
+              10764
+          ],
+          "id": 280749,
+          "origin_country": [
+              "PT"
+          ],
+          "original_language": "pt",
+          "original_name": "Secret Story - Desafio Final",
+          "overview": "Spin-off show from the reality show \"Secret Story\" where the best players fight each other to find special secrets and to win the cash prize.",
+          "popularity": 1769.548,
+          "poster_path": "/vLUonwbZ2im6iitunAxlDIGCfdZ.jpg",
+          "first_air_date": "2013-01-06",
+          "name": "Secret Story - Desafio Final",
+          "vote_average": 0,
+          "vote_count": 0
+      },
+      {
+          "adult": false,
+          "backdrop_path": "/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg",
+          "genre_ids": [
+              35,
+              10764
+          ],
+          "id": 33238,
+          "origin_country": [
+              "KR"
+          ],
+          "original_language": "ko",
+          "original_name": "런닝맨",
+          "overview": "A reality and competition show where members are joined by celebs to complete a weekly mission to win the race with Seoul as the beautiful backdrop.",
+          "popularity": 1705.12,
+          "poster_path": "/2Wmmu1MkqxJ48J7aySET9EKEjXz.jpg",
+          "first_air_date": "2010-07-11",
+          "name": "Running Man",
+          "vote_average": 8.383,
+          "vote_count": 180
+      },
+      {
+          "adult": false,
+          "backdrop_path": "/tJF9M5niAnb4fm881PGc2GwS0e1.jpg",
+          "genre_ids": [
+              16,
+              10759,
+              35,
+              10751,
+              10762
+          ],
+          "id": 80885,
+          "origin_country": [
+              "JP"
+          ],
+          "original_language": "ja",
+          "original_name": "忍者ハットリくん",
+          "overview": "11-year-old Kenichi Mitsuba is an average kid who goes to secondary school and struggles with his studies, he is very stubborn and is very lazy and therefore always ends up frustrating his parents and teacher. He loves to find an easy way of things. He befriends Hattori Kanzo, a ninja from the Iga Clan, and he becomes part of the Mitsuba family along with his brother, Shinzo and his ninja dog, Shishimaru. Hattori helps Kenichi with his problems, and constantly keeps an eye on him, as a good friend. The main antagonist Kemumaki, a Koga ninja and his ninja cat, Kagechiyo always troubles Kenichi, mainly because of their feud over one girl, Yumeko. Kenichi asks Hattori to take revenge as a recurring storyline in many episodes. Although Hattori is a good friend, Kenichi sometimes fights with Hattori due to misunderstandings created by Kemumaki. Sometimes Jippou, Togejirou and Tsubame help him.",
+          "popularity": 1690.257,
+          "poster_path": "/zVSx7lXxRKqXiQMgN6QNGgNyF5R.jpg",
+          "first_air_date": "1981-09-28",
+          "name": "Ninja Hattori-kun",
+          "vote_average": 6.8,
+          "vote_count": 29
+      }
+  ],
+  "total_pages": 9548,
+  "total_results": 190949
+}
+}
