@@ -32,7 +32,6 @@ function App() {
       setAllItems(combinedItems);
       setMovies(data.movie.results)
       setSeries(data.tv.results)
-      console.log(combinedItems)
     }
 
     getData()
