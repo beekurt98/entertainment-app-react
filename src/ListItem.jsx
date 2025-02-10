@@ -10,7 +10,7 @@ export default function ListItem({ item }) {
 
   return (
     <>
-      <div className="single-listing">
+      <div className="single-listing card">
         <button className="bookmark-btn" onClick={() => {addToBookmarks(item); setBookmarked(!bookmarked)}}>{bookmarks.includes(item) ? bookmarkedSvg : bookmarkSvg}</button>
         <img src={item.backdrop_path == null ? "https://image.tmdb.org/t/p/w200" + item.poster_path : "https://image.tmdb.org/t/p/w200" + item.backdrop_path} />
         <div className="listing-info">

@@ -1,7 +1,9 @@
 import { useEffect, useState, useContext, createContext } from 'react'
 import { Routes, Route, Link } from 'react-router-dom';
 
-import './App.css'
+// import './App.css'
+import './MainPage.css'
+
 
 import SearchBar from './SearchBar';
 import Nav from './Nav';
@@ -19,7 +21,7 @@ function App() {
   const [allItems, setAllItems] = useState([])
   const [searchResultCount, setSearchResultCount] = useState(null)
   const [searching, setSearching] = useState(false)
-  const [bookmarks, setBookmarks] = useState(JSON.parse(localStorage.getItem("bookmarks")) ||[])
+  const [bookmarks, setBookmarks] = useState(JSON.parse(localStorage.getItem("bookmarks")) || [])
 
   useEffect(() => {
     async function getData() {
@@ -71,18 +73,23 @@ function App() {
 
   return (
     <>
-      <Nav />
-      <SearchBar setSearching={setSearching} handleFilter={handleFilter} handleSearch={handleSearch} />
-      {searching && <p>Found {searchResultCount} results</p>
-      }
-      <BookmarkContext.Provider value={{ addToBookmarks, bookmarks }}>
-        <Routes>
-          <Route path="/" element={<MainPage items={items} />} />
-          <Route path="/bookmarks" element={<Bookmarks bookmarks={bookmarks} />} />
-          <Route path="/movies" element={<Movies items={items} movies={movies} />} />
-          <Route path="/series" element={<Series items={items} series={series} />} />
-        </Routes>
-      </BookmarkContext.Provider>
+      <div className="nav">
+        <Nav />
+      </div>
+      <div className="main-cont">
+        <SearchBar setSearching={setSearching} handleFilter={handleFilter} handleSearch={handleSearch} />
+        {searching && <p>Found {searchResultCount} results</p>
+        }
+        <BookmarkContext.Provider value={{ addToBookmarks, bookmarks }}>
+          <Routes>
+            <Route path="/" element={<MainPage items={items} />} />
+            <Route path="/bookmarks" element={<Bookmarks bookmarks={bookmarks} />} />
+            <Route path="/movies" element={<Movies items={items} movies={movies} />} />
+            <Route path="/series" element={<Series items={items} series={series} />} />
+          </Routes>
+        </BookmarkContext.Provider>
+      </div>
+
     </>
   )
 }
